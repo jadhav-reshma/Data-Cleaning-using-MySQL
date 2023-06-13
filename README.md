@@ -1,6 +1,8 @@
 # Data-Cleaning-using-MySQL
 In this project, tasks such as wrangling and cleaning of the "NashvilleHousing" Dataset are performed, using MySQL, in order to make it ready for analysis.
 
+### Link to the Dataset:
+https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
 
 ### Steps Used:
 1. Standardize Date Format
